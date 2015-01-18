@@ -43,7 +43,7 @@ Block 11 - 10,800,000: 5 000 HTML5 After block 10,800,00 POS will start . 1% Ann
 
 ## Ports
 
-RPC Port = 6876
+#RPC Port = 6876
 P2P Port = 6877
 Testnet RPC: 16876
 Testnet P2P: 16877 
