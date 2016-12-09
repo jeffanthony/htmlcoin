@@ -31,7 +31,7 @@ Swap: 40% use in transitiong to new coin
 
 ## Quality
 
-Prof of Developer: http://cryptoasian.com/html-htmlcoin/
+Proof of Developer: http://cryptoasian.com/html-htmlcoin/
 
 ## Algorithm: X15
 
