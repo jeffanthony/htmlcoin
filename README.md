@@ -18,14 +18,14 @@ Our development is based on an professional developer and we will be happy to he
 
 ## Specifications
 
-Name: HTMLCOIN
-Symbol: HTML5 or </>
-Total coin: 90 Billion 
-Block time: 60 seconds 
-Difficulty Re-targets: Every block Confirmations on Transactions: 10 
-Maturity: 15
-QR CODE support
-UPNP Support
+Name: HTMLCOIN<br/>
+Symbol: HTML5 or<br/>
+Total coin: 90 Billion<br/>
+Block time: 60 seconds <br/>
+Difficulty Re-targets: Every block Confirmations on Transactions: 10 <br/>
+Maturity: 15<br/>
+QR CODE support<br/>
+UPNP Support<br/>
 Swap: 40% use in transitiong to new coin
 
 
@@ -39,7 +39,7 @@ Prof of Developer: http://cryptoasian.com/html-htmlcoin/
 
 ## POW Reward
 Total Block: 10,800,000 
-Block 11 - 10,800,000: 5 000 HTML5 After block 10,800,00 POS will start . 1% Annual PoS.
+Block 11 - 10,800,000: 5 000 HTML5 After block 10,800,000 POS will start . 1% Annual PoS.
 
 ## Ports
 
